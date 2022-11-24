@@ -5,6 +5,7 @@ To get a Git project into your build:
 
 
   allprojects {
+  
 		repositories {
 		
 			...
